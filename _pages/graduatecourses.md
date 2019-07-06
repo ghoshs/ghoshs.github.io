@@ -3,6 +3,8 @@ layout: archive
 permalink: /graduate-courses/
 title: "CS Graduate courses for Data Science"
 author_profile: true
+header:
+  image: "/images/header1.jpg"
 ---
 
 {% include base_path %}
