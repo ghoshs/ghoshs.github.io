@@ -1,9 +1,11 @@
 # main links
 main:
-  - title: "About"
-    url: /about/
-  - title: "Graduate Courses"
-    url: /graduate-courses/
+  - title: "Home"
+    url: /
+  - title: "Publications"
+    url: /piblications/
+  - title: "Courses"
+    url: /courses/
   - title: "References"
     url: /references/
   # - title: "Quick-Start Guide"
