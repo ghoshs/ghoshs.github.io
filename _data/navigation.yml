@@ -3,7 +3,7 @@ main:
   - title: "Home"
     url: /
   - title: "Publications"
-    url: /piblications/
+    url: /publications/
   - title: "Courses"
     url: /courses/
   - title: "References"
