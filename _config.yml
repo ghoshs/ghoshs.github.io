@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Shrestha Ghosh"
 title_separator          : "-"
 name                     : "Shresth Ghosh"
-bio                      : "(My Doctoral Saga)"
+description              : "(My Doctoral Saga)"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -102,7 +102,7 @@ analytics:
 author:
   name             : "Shrestha Ghosh"
   avatar           : "/images/bio-image_2.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Data Science Portfolio"
+  bio              : "(My doctoral saga at MPII)"
   location         : "Saarbruecken, Germany"
   email            :
   uri              :
