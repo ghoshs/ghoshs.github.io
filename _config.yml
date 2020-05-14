@@ -130,6 +130,10 @@ author:
   weibo            :
   xing             :
   youtube          : # "https://youtube.com/c/MichaelRoseDesign"
+  links            :
+    - label: "dblp"
+      icon: "ai ai-dblp-square"
+      url: "https://dblp.uni-trier.de/pers/hd/g/Ghosh:Shrestha"
 
 
 # Reading Files
