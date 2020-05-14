@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: single
 permalink: /publications/
 title: "Contributions to the scientific community"
 author_profile: true
