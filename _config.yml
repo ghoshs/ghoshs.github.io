@@ -106,7 +106,7 @@ author:
   location         : "Saarbruecken, Germany"
   email            :
   uri              :
-  home             : "http://people.mpi-inf.mpg.de/~ghoshs/" # null (default), "absolute or relative url to link to author home"
+  home             :  # null (default), "absolute or relative url to link to author home"
   bitbucket        :
   codepen          :
   dribbble         :
@@ -131,6 +131,8 @@ author:
   xing             :
   youtube          : # "https://youtube.com/c/MichaelRoseDesign"
   links            :
+    - label: "MPII"
+      url: "http://people.mpi-inf.mpg.de/~ghoshs/"
     - label: "dblp"
       icon: "ai ai-dblp-square"
       url: "https://dblp.uni-trier.de/pers/hd/g/Ghosh:Shrestha"
