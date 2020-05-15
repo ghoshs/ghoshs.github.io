@@ -7,12 +7,12 @@ header:
 ---
 
 7. Shrestha Ghosh, Simon Razniewski, Gerhard Weikum:
-	*CounQER: A System for Discovering and Linking Count Information in Knowledge Bases.* CoRR abs/2005.03529 (2020)
+	*CounQER: A System for Discovering and Linking Count Information in Knowledge Bases.* <a href="https://arxiv.org/pdf/2005.03529.pdf">CoRR abs/2005.03529</a> (2020)
 	Accepted at **ESWC 2020**.
 
 6. Shrestha Ghosh, Simon Razniewski, Gerhard Weikum:
-	*Uncovering Hidden Semantics of Set Information in Knowledge Bases.* CoRR abs/2003.03155 (2020)
-	Under review in the *Journal of Web Semantic*.
+	*Uncovering Hidden Semantics of Set Information in Knowledge Bases.* <a href="https://arxiv.org/pdf/2003.03155.pdf">CoRR abs/2003.03155</a> (2020)
+	Under revision in the *Journal of Web Semantic*.
 
 5. Arun Ramamurthy, Vanlin Sathya, Shrestha Ghosh, A. Antony Franklin, Bheemarjuna Reddy Tamma:
 	*Dynamic Power Control and Scheduling in Full Duplex Cellular Network with D2D.* Wireless Personal Communications 104(2): 695-726 (2019)
@@ -28,5 +28,3 @@ header:
 
 1. Arpan Sen, Shrestha Ghosh, Arinjoy Basak, Harsh Parsuram Puria, Sushmita Ruj: 
 	*Achieving Data Survivability and Confidentiality in Unattended Wireless Sensor Networks.* AINA 2015: 239-246 (2015)
-
-{: reversed="reversed"}
