@@ -130,12 +130,12 @@ author:
   weibo            :
   xing             :
   youtube          : # "https://youtube.com/c/MichaelRoseDesign"
-  links            :
-    - label: "MPII"
-      url: "http://people.mpi-inf.mpg.de/~ghoshs/"
-    - label: "dblp"
-      icon: "ai ai-dblp-square"
-      url: "https://dblp.uni-trier.de/pers/hd/g/Ghosh:Shrestha"
+  # links            :
+  #   - label: "MPII"
+  #     url: "http://people.mpi-inf.mpg.de/~ghoshs/"
+  #   - label: "dblp"
+  #     icon: "ai ai-dblp-square"
+  #     url: "https://dblp.uni-trier.de/pers/hd/g/Ghosh:Shrestha"
 
 
 # Reading Files
