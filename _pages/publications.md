@@ -4,7 +4,7 @@ title: "Contributions to the scientific community"
 author_profile: true
 ---
 
-<ol reversed>
+<ol reversed class="small">
   <li>
     Shrestha Ghosh, Simon Razniewski, Gerhard Weikum: <br>
     <i>CounQER: A System for Discovering and Linking Count Information in Knowledge Bases.</i>  <br>
