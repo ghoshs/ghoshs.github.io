@@ -4,12 +4,12 @@ title: "MHAW 2021"
 author_profile: true
 ---
 
-<div class="row">
+<div class="row" class="small">
   <div class="column">
-   <img src="images/mhaw_logo.png" alt="">
+   <img src="https://github.com/ghoshs/ghoshs.github.io/tree/master/images/mhaw_logo.png" alt="">
    <br>
-   <img src="images/mpii-logo.png" alt="" width="50%">
-   <img src="images/phdnet.png" alt="" width="50%">
+   <img src="https://github.com/ghoshs/ghoshs.github.io/tree/master/images/mpii-logo.png" alt="" width="50%">
+   <img src="https://github.com/ghoshs/ghoshs.github.io/tree/master/images/phdnet.png" alt="" width="50%">
   </div>
   <div class="column">
    <h2>04.10.2021 to 08.10.2021</h2>
@@ -19,7 +19,7 @@ author_profile: true
   </div>
 </div>
 
-<table>
+<table class="small">
  <tr>
   <th>Oct 4 (Mon)</th>
   <th>Oct 5 (Tue)</th>
