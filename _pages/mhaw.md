@@ -4,12 +4,13 @@ title: "MHAW 2021"
 author_profile: true
 ---
 
-<div class="row" class="small">
+<div class="row small">
   <div class="column">
    <img src="{{ site.url }}{{ site.baseurl }}/images/mhaw_logo.png" alt="">
    <br>
-   <img src="{{ site.url }}{{ site.baseurl }}/images/mpii-logo.png" alt="" width="50%">
-   <img src="{{ site.url }}{{ site.baseurl }}/images/phdnet.png" alt="" width="50%">
+   <img src="{{ site.url }}{{ site.baseurl }}/images/mpii-logo.png" alt="" width="20px">
+   <br>
+   <img src="{{ site.url }}{{ site.baseurl }}/images/phdnet.png" alt="" width="20px">
   </div>
   <div class="column">
    <h2>04.10.2021 to 08.10.2021</h2>
