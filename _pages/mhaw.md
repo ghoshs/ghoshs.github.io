@@ -6,10 +6,10 @@ author_profile: true
 
 <div class="row" class="small">
   <div class="column">
-   <img src="https://github.com/ghoshs/ghoshs.github.io/tree/master/images/mhaw_logo.png" alt="">
+   <img src="{{ site.url }}{{ site.baseurl }}/images/mhaw_logo.png" alt="">
    <br>
-   <img src="https://github.com/ghoshs/ghoshs.github.io/tree/master/images/mpii-logo.png" alt="" width="50%">
-   <img src="https://github.com/ghoshs/ghoshs.github.io/tree/master/images/phdnet.png" alt="" width="50%">
+   <img src="{{ site.url }}{{ site.baseurl }}/images/mpii-logo.png" alt="" width="50%">
+   <img src="{{ site.url }}{{ site.baseurl }}/images/phdnet.png" alt="" width="50%">
   </div>
   <div class="column">
    <h2>04.10.2021 to 08.10.2021</h2>
