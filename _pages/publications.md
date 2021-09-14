@@ -1,6 +1,6 @@
 ---
 permalink: /publications/
-title: "Contributions to the scientific community"
+title: "Publications"
 author_profile: true
 ---
 
