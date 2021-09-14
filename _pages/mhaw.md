@@ -4,21 +4,21 @@ title: "MHAW 2021"
 author_profile: true
 ---
 
-<div class="row small">
-  <div class="column" style="width: 50%;">
-   <img src="{{ site.url }}{{ site.baseurl }}/images/mhaw_logo.png" alt="">
-   <br>
-   <img src="{{ site.url }}{{ site.baseurl }}/images/mpii-logo.png" alt="" width="100px">
-   <br>
-   <img src="{{ site.url }}{{ site.baseurl }}/images/phdnet.png" alt="" width="100px">
-  </div>
-  <div class="column" style="width: 50%;">
-   <h2>04.10.2021 to 08.10.2021</h2>
-   <strong>#BreakTheStigma </strong>
-   <p>20% of PhD researchers within Max Planck Society report moderate to severe depressive symptoms - that’s roughly 1000 of PhDs - and more that 60% show moderate to high state anxiety (PhDnet 2019 Survey). For those who are struggling, know that you are not alone, numbers don’t lie. The more we talk about mental health, learn about it, share our own experiences and pay attention, those among us struggling will feel less alone, less judged and hopefully more comfortable with reaching out for help. Let’s talk about it and #BreakTheStigma!
-   </p>
-  </div>
-</div>
+<table class="small">
+  <tr>
+   <td>
+   	<img src="{{ site.url }}{{ site.baseurl }}/images/mhaw_logo.png" alt="">
+    <br>
+    <img src="{{ site.url }}{{ site.baseurl }}/images/mpii-logo.png" alt="" width="100px">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/phdnet.png" alt="" width="100px">
+   </td>
+   <td>
+    <h2>04.10.2021 to 08.10.2021</h2>
+    <strong>#BreakTheStigma </strong>
+    <p>20% of PhD researchers within Max Planck Society report moderate to severe depressive symptoms - that’s roughly 1000 of PhDs - and more that 60% show moderate to high state anxiety (PhDnet 2019 Survey). For those who are struggling, know that you are not alone, numbers don’t lie. The more we talk about mental health, learn about it, share our own experiences and pay attention, those among us struggling will feel less alone, less judged and hopefully more comfortable with reaching out for help. Let’s talk about it and #BreakTheStigma!</p>
+  </td>
+  </tr>
+</table>
 
 <table class="small" style="width: 100%;border: 1px solid #4a4c4c">
  <tr style="background-color: rgba(202,220,217,255);">
@@ -30,10 +30,10 @@ author_profile: true
  </tr>
  <hr>
  <tr>
-  <td>Social Meet (10:00-10:30)</td>
-  <td>Kimberley from MoveUP (10:30-12:00)</td>
+  <td>Social Meet <br>(10:00-10:30)</td>
+  <td>Kimberley from MoveUP <br>(10:30-12:00)</td>
   <td> - </td>
-  <td>Dr. Phillip Wiegmann (10:00-11:30)</td>
-  <td>Hannah Mathheus (10:00-11:30)</td>
+  <td>Dr. Phillip Wiegmann <br> (10:00-11:30)</td>
+  <td>Hannah Mathheus <br> (10:00-11:30)</td>
  </tr>
 </table>
