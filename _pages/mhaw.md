@@ -22,11 +22,11 @@ author_profile: true
 
 <table class="small" style="width: 100%;border: 1px solid #4a4c4c">
  <tr style="background-color: rgba(202,220,217,255);">
-  <th>Oct 4 (Mon)</th>
-  <th>Oct 5 (Tue)</th>
-  <th>Oct 6 (Wed)</th>
-  <th>Oct 7 (Thu)</th>
-  <th>Oct 8 (Fri)</th>
+  <th style="width: 20%;">Oct 4 (Mon)</th>
+  <th style="width: 20%;">Oct 5 (Tue)</th>
+  <th style="width: 20%;">Oct 6 (Wed)</th>
+  <th style="width: 20%;">Oct 7 (Thu)</th>
+  <th style="width: 20%;">Oct 8 (Fri)</th>
  </tr>
  <hr>
  <tr>
