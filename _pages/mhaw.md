@@ -8,9 +8,9 @@ author_profile: true
   <div class="column">
    <img src="{{ site.url }}{{ site.baseurl }}/images/mhaw_logo.png" alt="">
    <br>
-   <img src="{{ site.url }}{{ site.baseurl }}/images/mpii-logo.png" alt="" width="20px">
+   <img src="{{ site.url }}{{ site.baseurl }}/images/mpii-logo.png" alt="" width="100px">
    <br>
-   <img src="{{ site.url }}{{ site.baseurl }}/images/phdnet.png" alt="" width="20px">
+   <img src="{{ site.url }}{{ site.baseurl }}/images/phdnet.png" alt="" width="100px">
   </div>
   <div class="column">
    <h2>04.10.2021 to 08.10.2021</h2>
@@ -20,18 +20,19 @@ author_profile: true
   </div>
 </div>
 
-<table class="small">
- <tr>
+<table class="small" style="width: 100%;border: 1px solid #4a4c4c">
+ <tr style="background-color: rgba(202,220,217,255);">
   <th>Oct 4 (Mon)</th>
   <th>Oct 5 (Tue)</th>
   <th>Oct 6 (Wed)</th>
   <th>Oct 7 (Thu)</th>
   <th>Oct 8 (Fri)</th>
  </tr>
+ <hr>
  <tr>
   <td>Social Meet (10:00-10:30)</td>
   <td>Kimberley from MoveUP (10:30-12:00)</td>
-  <td></td>
+  <td> - </td>
   <td>Dr. Phillip Wiegmann (10:00-11:30)</td>
   <td>Hannah Mathheus (10:00-11:30)</td>
  </tr>
