@@ -20,7 +20,9 @@ author_profile: true
   </tr>
 </table>
 
-<table class="small" style="width: 100%;border: 1px solid #4a4c4c">
+
+<embed src="{{ site.url }}{{ site.baseurl }}/images/MHAW2021.pdf" width="100%"/>
+<!-- <table class="small" style="width: 100%;border: 1px solid #4a4c4c">
  <tr style="background-color: rgba(202,220,217,255);">
   <th style="width: 20%;">Oct 4 (Mon)</th>
   <th style="width: 20%;">Oct 5 (Tue)</th>
@@ -36,4 +38,4 @@ author_profile: true
   <td>Dr. Phillip Wiegmann <br> (10:00-11:30)</td>
   <td>Hannah Mathheus <br> (10:00-11:30)</td>
  </tr>
-</table>
+</table> -->
