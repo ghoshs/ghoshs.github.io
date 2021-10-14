@@ -21,7 +21,7 @@ author_profile: true
 </table>
 
 
-<embed src="{{ site.url }}{{ site.baseurl }}/images/MHAW2021.pdf" width="100%"/>
+<embed src="{{ site.url }}{{ site.baseurl }}/images/MHAW2021poster.pdf" width="100%"/>
 <!-- <table class="small" style="width: 100%;border: 1px solid #4a4c4c">
  <tr style="background-color: rgba(202,220,217,255);">
   <th style="width: 20%;">Oct 4 (Mon)</th>
