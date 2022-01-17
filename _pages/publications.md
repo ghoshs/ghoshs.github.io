@@ -1,19 +1,25 @@
 ---
 permalink: /publications/
-title: "Publications"
+title: "Research"
 author_profile: true
 ---
 
+<h3>All</h3>
 <ol reversed class="small">
+  <li>
+    Simon Razniewski, Hiba Arnaout, Shrestha Ghosh, Fabian M. Suchanek: <br>
+    Tutorial on <i>Completeness, Recall and Negation in Open-World Knowledge Bases</i> <br>
+    <a href="https://www.mpi-inf.mpg.de/departments/databases-and-information-systems/research/knowledge-base-recall/tutorials">VLDB'21, KR'21, ISWC'21, WWW'22</a>.
+  </li>
   <li>
     Shrestha Ghosh, Simon Razniewski, Gerhard Weikum: <br>
     <i>CounQER: A System for Discovering and Linking Count Information in Knowledge Bases.</i>  <br>
-    <a href="https://arxiv.org/pdf/2005.03529.pdf">CoRR abs/2005.03529</a> (2020). Accepted at <b>ESWC 2020</b>.  
+    <a href="https://arxiv.org/pdf/2005.03529.pdf">ESWC</a> (2020).  
   </li>  
   <li>
     Shrestha Ghosh, Simon Razniewski, Gerhard Weikum: <br>
     <i>Uncovering Hidden Semantics of Set Information in Knowledge Bases.</i> <br>
-    <a href="https://www.sciencedirect.com/science/article/pii/S1570826820300317?via%3Dihub"></a>JWS (2020).  
+    <a href="https://www.sciencedirect.com/science/article/pii/S1570826820300317?via%3Dihub">JWS</a> (2020).  
   </li>
   <li>
     Arun Ramamurthy, Vanlin Sathya, Shrestha Ghosh, A. Antony Franklin, Bheemarjuna Reddy Tamma: <br>
