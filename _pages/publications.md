@@ -4,7 +4,7 @@ title: "Research"
 author_profile: true
 ---
 
-<h3>All</h3>
+This is a list of my publications.
 <ol reversed class="small">
   <li>
     Simon Razniewski, Hiba Arnaout, Shrestha Ghosh, Fabian M. Suchanek: <br>
