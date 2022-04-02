@@ -4,7 +4,7 @@ title: "Courses"
 author_profile: true
 ---
 
-List of courses offered and assisted.
+These are a list of courses and tutorials offered and assisted.
 
 <ol reversed class="small">
 	<li><strong>Summer Semester 2022:</strong> Automated Knowledge Base Construction <br> <a href="https://www.mpi-inf.mpg.de/departments/databases-and-information-systems/teaching/ss2022/akbc">Course Website</a></li>
