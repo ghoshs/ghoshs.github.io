@@ -7,6 +7,11 @@ author_profile: true
 This is a list of my publications.
 <ol reversed class="small">
   <li>
+    Shrestha Ghosh, Simon Razniewski, Gerhard Weikum: <br>
+    <i>Answering Count Queries with Explanation.</i><br>
+    <a href="https://dl.acm.org/doi/pdf/10.1145/3477495.3531870">SIGIR</a> (2022).
+  </li>
+  <li>
     Simon Razniewski, Hiba Arnaout, Shrestha Ghosh, Fabian M. Suchanek: <br>
     Tutorial on <i>Completeness, Recall and Negation in Open-World Knowledge Bases</i> <br>
     <a href="https://www.mpi-inf.mpg.de/departments/databases-and-information-systems/research/knowledge-base-recall/tutorials">VLDB'21, KR'21, ISWC'21, WWW'22</a>.
