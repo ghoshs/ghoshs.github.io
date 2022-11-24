@@ -2,12 +2,12 @@
 main:
   - title: "Publications"
     url: /publications/
-  - title: "Courses"
-    url: /courses/
-  - title: "References"
-    url: /references/
+  - title: "Activities"
+    url: /activites/
   - title: "MHAW"
     url: /mhaw/
+  # - title: "Resources"
+  #   url: /resources/
   # - title: "Quick-Start Guide"
     # url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"

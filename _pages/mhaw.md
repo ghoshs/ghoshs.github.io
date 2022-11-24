@@ -7,10 +7,10 @@ author_profile: true
 <table class="small">
   <tr>
    <td style="width: 50%;">
-   	<img src="{{ site.url }}{{ site.baseurl }}/images/mhaw_logo.png" alt="">
+   	<img src="/images/mhaw_logo.png" alt="">
     <br>
-    <img src="{{ site.url }}{{ site.baseurl }}/images/mpii-logo.png" alt="" width="100px">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/phdnet.png" alt="" width="100px">
+    <img src="/images/mpii-logo.png" alt="" width="100px">
+    <img src="/images/phdnet.png" alt="" width="100px">
    </td>
    <td style="width: 50%;">
     <h2>04.10.2021 to 08.10.2021</h2>
@@ -20,8 +20,8 @@ author_profile: true
   </tr>
 </table>
 
-
-<embed src="{{ site.url }}{{ site.baseurl }}/images/MHAW2021poster.pdf" width="100%"/>
+<embed src="/files/MHAW2021poster.pdf" width="100%"/>
+<!-- <embed src="{{ site.url }}{{ site.baseurl }}/files/MHAW2021poster.pdf" width="100%"/> -->
 <!-- <table class="small" style="width: 100%;border: 1px solid #4a4c4c">
  <tr style="background-color: rgba(202,220,217,255);">
   <th style="width: 20%;">Oct 4 (Mon)</th>
