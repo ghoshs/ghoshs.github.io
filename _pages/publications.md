@@ -8,8 +8,13 @@ This is a list of my publications.
 <ol reversed class="small">
   <li>
     Shrestha Ghosh, Simon Razniewski, Gerhard Weikum: <br>
+    <i>Answering Count Questions with Structured Answers from Text.</i><br>
+    <a href="/files/JoWS_2022.pdf">to appear in JoWS</a> (2023).
+  </li>
+  <li>
+    Shrestha Ghosh, Simon Razniewski, Gerhard Weikum: <br>
     <i>CoQEx: Entity Counts Explained.</i><br>
-    <a href="/files/coqex_demo.pdf">WSDM</a> (2023).
+    <a href="/files/WSDM_2023.pdf">WSDM</a> (2023).
   </li>
   <li>
     Shrestha Ghosh, Simon Razniewski, Gerhard Weikum: <br>

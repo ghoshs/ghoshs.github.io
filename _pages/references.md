@@ -1,5 +1,5 @@
 ---
-permalink: /references/
-title: "Useful References"
+permalink: /resources/
+title: "Useful Resources"
 author_profile: true
 ---
