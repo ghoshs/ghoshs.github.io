@@ -62,7 +62,7 @@ author_profile: true
 		<a href="https://www2022.thewebconf.org/tutorials/">Tutorial on Completeness, Recall and Negation in Open-World Knowledge Bases</a>
 	</li>
 	<li>
-		<strong>2021</strong> Tutorial on Completeness, Recall and Negation in Open-World Knowledge Bases <br>
+		<strong>2021</strong> Tutorial on Completeness, Recall and Negation in Open-World Knowledge Bases: 
 		<a href="https://vldb.org/2021/?program-schedule-tutorials">VLDB</a>, <a href="https://iswc2021.semanticweb.org/tutorial-schedule">ISWC</a>, <a href="https://kr2021.kbsg.rwth-aachen.de/static/program/4/">KR</a>.
 	</li>
 </ol>

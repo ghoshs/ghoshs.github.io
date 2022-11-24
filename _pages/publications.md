@@ -1,10 +1,9 @@
 ---
 permalink: /publications/
-title: "Research"
+title:
 author_profile: true
 ---
 
-This is a list of my publications.
 <ol reversed class="small">
   <li>
     Shrestha Ghosh, Simon Razniewski, Gerhard Weikum: <br>
