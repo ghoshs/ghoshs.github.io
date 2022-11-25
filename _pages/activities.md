@@ -1,6 +1,6 @@
 ---
 permalink: /activities/
-title: "Activities"
+title: 
 author_profile: true
 ---
 
