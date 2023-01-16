@@ -8,12 +8,12 @@ author_profile: true
   <li>
     Shrestha Ghosh, Simon Razniewski, Gerhard Weikum: <br>
     <i>Answering Count Questions with Structured Answers from Text.</i><br>
-    <a href="https://www.sciencedirect.com/science/article/abs/pii/S1570826822000531">JoWS</a> (2023) | <a href="/files/JoWS_2022.pdf"><img src="images/pdf-icon.png" width="20px"></a>.
+    <a href="https://www.sciencedirect.com/science/article/abs/pii/S1570826822000531">JoWS</a> (2023) | <a href="/files/JoWS_2022.pdf"><img src="/images/pdf-icon.png" width="20px"></a>.
   </li>
   <li>
     Shrestha Ghosh, Simon Razniewski, Gerhard Weikum: <br>
     <i>CoQEx: Entity Counts Explained.</i><br>
-    WSDM (2023) | <a href="/files/WSDM_2023.pdf"><img src="images/pdf-icon.png" width="20px"></a>.
+    WSDM (2023) | <a href="/files/WSDM_2023.pdf"><img src="/images/pdf-icon.png" width="20px"></a>.
   </li>
   <li>
     Shrestha Ghosh, Simon Razniewski, Gerhard Weikum: <br>
@@ -28,7 +28,7 @@ author_profile: true
   <li>
     Shrestha Ghosh, Simon Razniewski, Gerhard Weikum: <br>
     <i>CounQER: A System for Discovering and Linking Count Information in Knowledge Bases.</i>  <br>
-    ESWC (2020) | <a href="https://arxiv.org/pdf/2005.03529.pdf"><img  src="images/pdf-icon.png" width="20px"></a>.  
+    ESWC (2020) | <a href="https://arxiv.org/pdf/2005.03529.pdf"><img  src="/images/pdf-icon.png" width="20px"></a>.  
   </li>  
   <li>
     Shrestha Ghosh, Simon Razniewski, Gerhard Weikum: <br>
