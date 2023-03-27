@@ -7,13 +7,18 @@ author_profile: true
 <ol reversed class="small">
   <li>
     Shrestha Ghosh, Simon Razniewski, Gerhard Weikum: <br>
+    <i>Class Cardinality Comparison as a Fermi Problem.</i><br>
+    WWW Companion</a> (2023) | <a href="/files/WWW_2023.pdf"><img src="/images/pdf-icon.png" width="20px"></a>.
+  </li>
+  <li>
+    Shrestha Ghosh, Simon Razniewski, Gerhard Weikum: <br>
     <i>Answering Count Questions with Structured Answers from Text.</i><br>
     <a href="https://www.sciencedirect.com/science/article/abs/pii/S1570826822000531">JoWS</a> (2023) | <a href="/files/JoWS_2022.pdf"><img src="/images/pdf-icon.png" width="20px"></a>.
   </li>
   <li>
     Shrestha Ghosh, Simon Razniewski, Gerhard Weikum: <br>
     <i>CoQEx: Entity Counts Explained.</i><br>
-    WSDM (2023) | <a href="/files/WSDM_2023.pdf"><img src="/images/pdf-icon.png" width="20px"></a>.
+    <a href="https://dl.acm.org/doi/10.1145/3539597.3573021">WSDM</a> (2023).
   </li>
   <li>
     Shrestha Ghosh, Simon Razniewski, Gerhard Weikum: <br>
