@@ -8,11 +8,11 @@ author_profile: true
   <li>
     Simon Razniewski, Hiba Arnaout, Shrestha Ghosh, Fabian Suchanek: <br>
     <i>Completeness, Recall, and Negation in Open-World Knowledge Bases: A Survey</i>
-    ACM Computing Surveys | <a href="https://dl.acm.org/doi/10.1145/3639563"><img src="images/pdf-icon.png" width="20px"></a>
+    ACM Computing Surveys | <a href="https://dl.acm.org/doi/10.1145/3639563"><img src="/images/pdf-icon.png" width="20px"></a>
   </li>
   <li>
     Shrestha Ghosh: <i>Limits of Zero-shot Probing on Object Prediction</i> <br>
-    LM-KBC Challenge @ ISWC 2023 | <a href="https://ceur-ws.org/Vol-3577/paper1.pdf"><img src="images/pdf-icon.png" width="20px"></a>
+    LM-KBC Challenge @ ISWC 2023 | <a href="https://ceur-ws.org/Vol-3577/paper1.pdf"><img src="/images/pdf-icon.png" width="20px"></a>
   </li>
   <li>
     Shrestha Ghosh, Simon Razniewski, Gerhard Weikum: <br>
