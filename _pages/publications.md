@@ -17,7 +17,7 @@ author_profile: true
   <li>
     Shrestha Ghosh, Simon Razniewski, Gerhard Weikum: <br>
     <i>Class Cardinality Comparison as a Fermi Problem.</i><br>
-    WWW Companion</a> (2023) | <a href="/files/WWW_2023.pdf"><img src="/images/pdf-icon.png" width="20px"></a>.
+    WWW Companion (2023) | <a href="/files/WWW_2023.pdf"><img src="/images/pdf-icon.png" width="20px"></a>.
   </li>
   <li>
     Shrestha Ghosh, Simon Razniewski, Gerhard Weikum: <br>
