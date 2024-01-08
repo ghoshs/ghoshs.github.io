@@ -28,6 +28,10 @@ author_profile: true
 <h3 id="talks">Talks</h3>
 <ol reversed class="small">
 	<li>
+		<strong>2023</strong> IR Seminar at University of Glasgow
+		<a href="https://docs.google.com/presentation/d/11lycJDr44rX1nZxDT4FBHEasdMstCbR5DT1aXbVRm8Y/edit?usp=sharing">Slides</a>
+	</li>
+	<li>
 		<strong>SIGIR 2022</strong> Short Paper
 		<a href="/files/SIGIR_2022.pdf">Poster</a>|
 		<a href="https://drive.google.com/file/d/1rBg-u8lwNXsqLdaN6Y-282RGE6DE6Ra2/view?usp=sharing">Video</a>
