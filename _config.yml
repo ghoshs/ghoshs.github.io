@@ -102,7 +102,7 @@ analytics:
 author:
   name             : "Shrestha Ghosh"
   avatar           : "/images/bio-image_2.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Navigating my trough of despair :)"
+  bio              : 
   location         : "Saarbruecken, Germany"
   googlescholar    : "https://scholar.google.com/citations?user=_u9XlV0AAAAJ&hl=en"
   email            :

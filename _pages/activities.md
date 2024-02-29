@@ -28,6 +28,9 @@ author_profile: true
 <h3 id="talks">Talks</h3>
 <ol reversed class="small">
 	<li>
+		<strong>2024</strong> Guest lecture at IIT Kharagpur.
+	</li>
+	<li>
 		<strong>2023</strong> IR Seminar at University of Glasgow
 		<a href="https://docs.google.com/presentation/d/11lycJDr44rX1nZxDT4FBHEasdMstCbR5DT1aXbVRm8Y/edit?usp=sharing">Slides</a>
 	</li>
