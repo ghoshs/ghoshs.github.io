@@ -8,7 +8,7 @@ author_profile: true
   <li>
     Shrestha Ghosh, Simon Razniewski, Damien Graux, Gerhard Weikum: <br>
     <i>CardiO: Prediction Cardinality from Online Sources</i><br>
-    WWW Companion (2024) | <a href="/files/WWW_2024.pdf"><img src="images/pdf-icon.png" width="20px"></a>
+    WWW Companion (2024) | <a href="/files/WWW_2024.pdf"><img src="/images/pdf-icon.png" width="20px"></a>
   </li>
   <li>
     Simon Razniewski, Hiba Arnaout, Shrestha Ghosh, Fabian Suchanek: <br>
