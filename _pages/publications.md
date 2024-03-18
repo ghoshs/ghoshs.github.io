@@ -6,8 +6,13 @@ author_profile: true
 
 <ol reversed class="small">
   <li>
+    Shrestha Ghosh, Simon Razniewski, Damien Graux, Gerhard Weikum: <br>
+    <i>CardiO: Prediction Cardinality from Online Sources</i><br>
+    WWW Companion (2024) | <a href="/files/WWW_2024.pdf"><img src="images/pdf-icon.png" width="20px"></a>
+  </li>
+  <li>
     Simon Razniewski, Hiba Arnaout, Shrestha Ghosh, Fabian Suchanek: <br>
-    <i>Completeness, Recall, and Negation in Open-World Knowledge Bases: A Survey</i>
+    <i>Completeness, Recall, and Negation in Open-World Knowledge Bases: A Survey</i><br>
     ACM Computing Surveys | <a href="https://dl.acm.org/doi/10.1145/3639563"><img src="/images/pdf-icon.png" width="20px"></a>
   </li>
   <li>
