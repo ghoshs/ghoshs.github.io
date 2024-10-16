@@ -29,7 +29,7 @@ author_profile: true
 <ol reversed class="small">
 	<li>
 		<strong>Sep 2024</strong> PhD defense at Max Planck Institute for Informatics.
-		<a href="files/PhD_Defense_2024.pdf">Slides</a>
+		<a href="files/Defense_slides_30.09.2024_Shrestha_Ghosh.pdf">Slides</a>
 	</li>
 	<li>
 		<strong>Jun 2024</strong> Invited talk at University of Stuttgart.
