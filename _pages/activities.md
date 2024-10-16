@@ -28,16 +28,18 @@ author_profile: true
 <h3 id="talks">Talks</h3>
 <ol reversed class="small">
 	<li>
-		<strong>2024</strong> Guest lecture at IIT Kharagpur.
+		<strong>Sep 2024</strong> PhD defense at Max Planck Institute for Informatics.
+		<a href="files/PhD_Defense_2024.pdf">Slides</a>
+	</li>
+	<li>
+		<strong>Jun 2024</strong> Invited talk at University of Stuttgart.
+	</li>
+	<li>
+		<strong>Jan 2024</strong> Guest lecture at IIT Kharagpur.
 	</li>
 	<li>
 		<strong>2023</strong> IR Seminar at University of Glasgow
 		<a href="https://docs.google.com/presentation/d/11lycJDr44rX1nZxDT4FBHEasdMstCbR5DT1aXbVRm8Y/edit?usp=sharing">Slides</a>
-	</li>
-	<li>
-		<strong>SIGIR 2022</strong> Short Paper
-		<a href="/files/SIGIR_2022.pdf">Poster</a>|
-		<a href="https://drive.google.com/file/d/1rBg-u8lwNXsqLdaN6Y-282RGE6DE6Ra2/view?usp=sharing">Video</a>
 	</li>
 	<li>
 		<strong>2021</strong> DIG Seminar at Telecom Paris
@@ -78,8 +80,9 @@ author_profile: true
 
 <h3 id="reviewing">Reviewing</h3>
 <ul reversed class="small">
-	<li>2023: ESWC</li>
+	<li>2024: ISWC, CIKM</li>
+	<li>2023: ESWC, ISWC, CIKM</li>
 	<li>2022: ISWC, CIKM, COMSYS</li>
 	<li>2021: ISWC, CIKM, Wikidata Workshop</li>
-	<li>2020: ISWC, CIKM, WSDM (sub-reviewer)</li>
+	<li>2020: ISWC, CIKM, WSDM</li>
 </ul>
