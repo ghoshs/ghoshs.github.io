@@ -1,11 +1,11 @@
 # main links
 main:
-  - title: "Publications"
-    url: /publications/
   - title: "Activities"
     url: /activities/
   - title: "MHAW"
     url: /mhaw/
+  # - title: "Publications"
+  #   url: /publications/
   # - title: "Resources"
   #   url: /resources/
   # - title: "Quick-Start Guide"

@@ -54,6 +54,10 @@ author_profile: true
     <i>Uncovering Hidden Semantics of Set Information in Knowledge Bases.</i> <br>
     <a href="https://www.sciencedirect.com/science/article/pii/S1570826820300317?via%3Dihub">JWS</a> (2020).  
   </li>
+</ol>
+
+<h4>- 2019</h4>
+<ol reversed class="small">
   <li>
     Arun Ramamurthy, Vanlin Sathya, Shrestha Ghosh, A. Antony Franklin, Bheemarjuna Reddy Tamma: <br>
     <i>Dynamic Power Control and Scheduling in Full Duplex Cellular Network with D2D.</i> <br>
@@ -69,11 +73,11 @@ author_profile: true
     <i>Study of Engineered Features and Learning Features in Machine Learning - A Case Study in Document Classification.</i> <br>
     <a href="https://link.springer.com/chapter/10.1007/978-3-319-52503-7_13">IHCI</a> (2016).
   </li>
- <!--  <li>
+  <li>
     Arun Ramamurthy, R. Vanlin Sathya, Shrestha Ghosh, A. Antony Franklin, Bheemarjuna Reddy Tamma: <br>
     <i>On Improving Capacity of Full-Duplex Small Cells with D2D.</i> <br>
     <a href="https://arxiv.org/pdf/1606.07198.pdf">CoRR abs/1606.07198</a> (2016).
-  </li> -->
+  </li>
   <li>
     Arpan Sen, Shrestha Ghosh, Arinjoy Basak, Harsh Parsuram Puria, Sushmita Ruj: <br>
     <i>Achieving Data Survivability and Confidentiality in Unattended Wireless Sensor Networks.</i> <br>
