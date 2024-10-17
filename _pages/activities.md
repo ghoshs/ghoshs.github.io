@@ -5,7 +5,7 @@ author_profile: true
 toc: true
 toc_sticky: true
 toc_icon: "bars"
-toc_label: 
+toc_label: ""
 ---
 
 <!-- <ul class="small">
