@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Count Information"
-date: 2024
+date: 2024-09-01
 tags: [IR, NLP, Web, Count informations]
 header: "/images/post_count_information_1.png"
 ---
