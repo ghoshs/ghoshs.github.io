@@ -2,14 +2,15 @@
 permalink: /activities/
 title: 
 author_profile: true
+toc: true
 ---
 
-<ul class="small">
+<!-- <ul class="small">
 	<a href="#teaching">Teaching</a>
 	<a href="#talks">Talks</a>
 	<a href="#tutorials">Tutorials</a>
 	<a href="#reviewing">Reviewing</a>
-</ul>
+</ul> -->
 
 
 <h3 id="teaching">Teaching</h3>
