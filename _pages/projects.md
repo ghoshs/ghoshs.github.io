@@ -4,7 +4,8 @@ title: "Projects"
 author_profile: true
 ---
 
-{% for post in paginator.posts %}
-  {% include archive-single.html %}
-{% endfor %}
-{% include paginator.html %}
+<ul>
+    <li>
+      <a href="{% post_url 2024-09-01-count-information %}">Count Information</a>
+    </li>
+</ul>

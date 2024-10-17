@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Count Information"
 date: 2024
 tags: [IR, NLP, Web, Count informations]
