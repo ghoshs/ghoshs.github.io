@@ -3,12 +3,18 @@ layout: posts
 title: "Count Information"
 date: 2024-09-01
 tags: [IR, NLP, Web, Count informations]
-header:
-    image: "/images/post_count_information_header.png"
 ---
 
-<p>Count information is the relation between an entity and a set of entities that can be expressed as <strong>enumerations</strong> of individual instances, as X is an employee of Z, Y is an employee of Z or as a <strong>cardinality</strong> Z has N employees.
+<p>We define count information as a type of information that captures the cardinality of a set of entities, directly as a <strong>count</strong> or as <strong>enumerations</strong>.
+
+Here, we have two examples sets of entities with the set cardinality, or as we alternatively call them “count” and the instances which enumerate the set. The cardinality and enumeration have been obtained from authoritative sources.
+
 </p> 
+
+<img src="{{ site.url }}{{ site.baseurl }}/images/post_count_information_header.png" alt="">
+
+<p>We can already notice some differences between the two sets in terms of how much and how precise information exists of the two sets.
+</p>
 
 <p>Identifying such information in text and knowledge bases (KBs) and linking the two variants can: </p>
 
