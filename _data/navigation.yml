@@ -2,8 +2,10 @@
 main:
   - title: "Activities"
     url: /activities/
-  - title: "MHAW"
-    url: /mhaw/
+  - title: "Projects"
+    url: /projects/
+  # - title: "MHAW"
+  #   url: /mhaw/
   # - title: "Publications"
   #   url: /publications/
   # - title: "Resources"
