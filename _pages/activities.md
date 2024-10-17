@@ -3,6 +3,9 @@ permalink: /activities/
 title: 
 author_profile: true
 toc: true
+toc_sticky: true
+toc_icon: "bars"
+toc_label: 
 ---
 
 <!-- <ul class="small">
