@@ -4,7 +4,7 @@ title: "Count Information"
 date: 2024-09-01
 tags: [IR, NLP, Web, Count informations]
 ---
-
+<div class="small">
 <p>We define count information as a type of information that captures the cardinality of a set of entities, directly as a <strong>count</strong> or as <strong>enumerations</strong>.
 
 Here, we have two examples sets of entities with the set cardinality, or as we alternatively call them “count” and the instances which enumerate the set. The cardinality and enumeration have been obtained from authoritative sources.
@@ -27,3 +27,5 @@ Here, we have two examples sets of entities with the set cardinality, or as we a
 
 <p>Most research focus on numerical facts without joining the dots between numerical facts specifying cardinal information and their corresponding entity-to-entity grounding facts. Popular general-purpose KBs have limited ability to recognize such predicates. 
 </p>
+
+</div>
