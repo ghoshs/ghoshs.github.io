@@ -1,9 +1,10 @@
 ---
 permalink: /projects/
-title: "Projects"
+title:
 author_profile: true
 ---
-<ul>
+<h3>Projects</h3>
+<ul class="small">
   {% for post in site.posts %}
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a>
