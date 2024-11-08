@@ -19,10 +19,13 @@ toc_label: " "
 <h3 id="teaching">Teaching</h3>
 <ol reversed class="small">
 	<li>
-		<strong>Summer Semester 2022:</strong> Automated Knowledge Base Construction <br> <a href="https://www.mpi-inf.mpg.de/departments/databases-and-information-systems/teaching/ss2022/akbc">Course Website</a>
+		<strong>Winter 2024-25:</strong> Substitute for Python Programming.
 	</li>
 	<li>
-		<strong>Winter Semester 2019-2020:</strong> Information Retrieval and Data Mining <br>
+		<strong>Summer 2022:</strong> TA for Automated Knowledge Base Construction <br> <a href="https://www.mpi-inf.mpg.de/departments/databases-and-information-systems/teaching/ss2022/akbc">Course Website</a>
+	</li>
+	<li>
+		<strong>Winter 2019-20:</strong> TA for Information Retrieval and Data Mining <br>
 		Core course for Masters. <a href="https://www.mpi-inf.mpg.de/departments/databases-and-information-systems/teaching/ws1920/irdm19">Course Website</a>
 	</li>
 </ol>
