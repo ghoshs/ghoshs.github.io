@@ -112,9 +112,10 @@ author:
   stackoverflow    : #"10505848/shrestha-ghosh" # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
   twitter          : "ShresthaGh"
   dblp             : #"https://dblp.uni-trier.de/pers/hd/g/Ghosh:Shrestha"
-  label            : "Contact"
-      icon         : "fas fa-envelope-square"
-      url          : "mailto:shrestha.ghosh@uni-tuebingen.de"
+  links:
+     - label        : "Contact"
+       icon         : "fas fa-envelope-square"
+       url          : "mailto:shrestha.ghosh@uni-tuebingen.de"
 
 
 # Reading Files
