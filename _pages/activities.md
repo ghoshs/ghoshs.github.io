@@ -35,6 +35,9 @@ toc_label: " "
 <h3 id="talks">Talks</h3>
 <ol reversed class="small">
 	<li>
+		<strong>May 2025</strong> Invited talk at the 1st Knowledge-Aware AI (KAAI) Workshop TU Dresden.
+	</li>
+	<li>
 		<strong>Sep 2024</strong> PhD defense at Max Planck Institute for Informatics.
 		<a href="/files/Defense_slides_30.09.2024_Shrestha_Ghosh.pdf">Slides</a>
 	</li>
@@ -87,6 +90,7 @@ toc_label: " "
 
 <h3 id="reviewing">Reviewing</h3>
 <ul reversed class="small">
+	<li>2025: SIGIR</li>
 	<li>2024: ISWC, CIKM</li>
 	<li>2023: ESWC, ISWC, CIKM</li>
 	<li>2022: ISWC, CIKM, COMSYS</li>

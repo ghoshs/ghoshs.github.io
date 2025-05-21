@@ -6,6 +6,11 @@ author_profile: true
 
 <ol reversed class="small">
   <li>
+    Yujia Hu, Tuan-Phong Nguyen, Shrestha Ghosh, Simon Razniewski: <br>
+    <i>GPTKB: Comprehensively Materializing Factual LLM Knowledge</i><br>
+    Accepted to ACL Main 2025 | <a href="https://arxiv.org/abs/2411.04920">arXiv</a> 
+  </li>
+  <li>
     Shrestha Ghosh, Simon Razniewski, Damien Graux, Gerhard Weikum: <br>
     <i>CardiO: Prediction Cardinality from Online Sources</i><br>
     WWW Companion (2024) | <a href="/files/WWW_2024.pdf"><img src="/images/pdf-icon.png" width="20px"></a>
