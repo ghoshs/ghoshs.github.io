@@ -7,7 +7,7 @@ author_profile: true
 <ol reversed class="small">
   <li>
     Yujia Hu, Tuan-Phong Nguyen, Shrestha Ghosh, Simon Razniewski: <br>
-    <i>GPTKB: Comprehensively Materializing Factual LLM Knowledge</i><br>
+    <i>Enabling LLM Knowledge Analysis via Extensive Materialization</i><br>
     Accepted to ACL Main 2025 | <a href="https://arxiv.org/abs/2411.04920">arXiv</a> 
   </li>
   <li>
