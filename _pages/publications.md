@@ -7,8 +7,13 @@ author_profile: true
 <ol reversed class="small">
   <li>
     Yujia Hu, Tuan-Phong Nguyen, Shrestha Ghosh, Simon Razniewski: <br>
+    <i>Introducing GPTKB to the Semantic Web</i><br>
+    ISWC 2025 | <a href="https://gptkb.org/">Demo</a>
+  </li>
+  <li>
+    Yujia Hu, Tuan-Phong Nguyen, Shrestha Ghosh, Simon Razniewski: <br>
     <i>Enabling LLM Knowledge Analysis via Extensive Materialization</i><br>
-    Accepted to ACL Main 2025 | <a href="https://arxiv.org/abs/2411.04920">arXiv</a> 
+    ACL 2025 | <a href="https://arxiv.org/abs/2411.04920">arXiv</a> 
   </li>
   <li>
     Shrestha Ghosh, Simon Razniewski, Damien Graux, Gerhard Weikum: <br>

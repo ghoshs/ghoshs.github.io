@@ -19,6 +19,9 @@ toc_label: " "
 <h3 id="teaching">Teaching</h3>
 <ol reversed class="small">
 	<li>
+		<strong>Winter 2025-26:</strong> Seminar on LLM-based Cohort Discovery for Clinical Trials.
+	</li>
+	<li>
 		<strong>Winter 2024-25:</strong> Substitute for Python Programming.
 	</li>
 	<li>
