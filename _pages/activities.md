@@ -93,8 +93,9 @@ toc_label: " "
 
 <h3 id="reviewing">Reviewing</h3>
 <ul reversed class="small">
-	<li>2025: SIGIR</li>
-	<li>2024: ISWC, CIKM</li>
+	<li>2026: ECIR, WWW</li>
+	<li>2025: SIGIR, ISWC, Workshops (LM-KBC, PromptEng)</li>
+	<li>2024: ISWC, CIKM, Workshops (LM-KBC, PromptEng)</li>
 	<li>2023: ESWC, ISWC, CIKM</li>
 	<li>2022: ISWC, CIKM, COMSYS</li>
 	<li>2021: ISWC, CIKM, Wikidata Workshop</li>
