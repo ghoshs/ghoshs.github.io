@@ -19,6 +19,9 @@ toc_label: " "
 <h3 id="teaching">Teaching</h3>
 <ol reversed class="small">
 	<li>
+		<strong>Summer 2026:</strong> Seminar on LLM-based Cohort Discovery for Clinical Trials.
+	</li>
+	<li>
 		<strong>Winter 2025-26:</strong> Seminar on LLM-based Cohort Discovery for Clinical Trials.
 	</li>
 	<li>
@@ -37,6 +40,21 @@ toc_label: " "
 
 <h3 id="talks">Talks</h3>
 <ol reversed class="small">
+	<li>
+		<strong>Feb 2026</strong> Invited seminar at IIT Kharagpur, Department of Artificial Intelligence.
+	</li>
+	<li>
+		<strong>Feb 2026</strong> <a href="https://cse.iith.ac.in/talks/2026-02-17-Trustworthy-AI-for-Information-Access-and-Critical-Decision-Making.html">Invited seminar</a> at IIT Hyderabad, Department of Computer Science and Engineering.
+	</li>
+	<li>
+		<strong>Feb 2026</strong> Invited seminar at IIT Palakkad, Department of Data Science.
+	</li>
+	<li>
+		<strong>Feb 2026</strong> Invited seminar at IIT Kharagpur, Department of Computer Science and Engineering.
+	</li>
+	<li>
+		<strong>Dec 2025</strong> Invited talk (online) at National Center for Tumor Diseases (NCT) Südwest, University Hospital Tübingen.
+	</li>
 	<li>
 		<strong>May 2025</strong> Invited talk at the 1st Knowledge-Aware AI (KAAI) Workshop TU Dresden.
 	</li>
@@ -93,7 +111,7 @@ toc_label: " "
 
 <h3 id="reviewing">Reviewing</h3>
 <ul reversed class="small">
-	<li>2026: ECIR, WWW</li>
+	<li>2026: ECIR, WWW, SIGIR, ARR, CIKM, MLHC, Workshops (AKBC)</li>
 	<li>2025: SIGIR, ISWC, Workshops (LM-KBC, PromptEng)</li>
 	<li>2024: ISWC, CIKM, Workshops (LM-KBC, PromptEng)</li>
 	<li>2023: ESWC, ISWC, CIKM</li>
